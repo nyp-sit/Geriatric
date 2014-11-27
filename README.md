@@ -1,6 +1,4 @@
 Silver Vitality
-
-(Pervasive Geriatric Care Management System)
 ============================================
 FYPJ Project
 FYPJ Phase 3
