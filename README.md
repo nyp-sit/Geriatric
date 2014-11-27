@@ -10,11 +10,11 @@ Leslie, Konan, Paul
 
 
 Total of 3 components to the project:
- > Elderly App [https://github.com/konanshum/SilverVitality]
+ > Elderly App
+ > [https://github.com/konanshum/SilverVitality]
  
- > Caregiver App [https://github.com/donutsandnuts/CareGiverApp]
+ > Caregiver App
+ > [https://github.com/donutsandnuts/CareGiverApp]
  
- > Website [https://github.com/donutsandnuts/PGCS]
- 
- 
- 
+ > Website
+ > [https://github.com/donutsandnuts/PGCS]
