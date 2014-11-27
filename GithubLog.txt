@@ -1,0 +1,300 @@
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/AlarmScreen.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/AlarmService.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/CustomSwitch.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/DisplayDoctor.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/DisplayHistory.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/SQLiteAlarm.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/SQLiteDoctor.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/M
+edBook/model/SQLiteHistory.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/S
+afety/GPS.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/S
+afety/MyActivity.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/S
+afety/MyService.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/S
+afety/SMS.java
+ create mode 100644 SilverVitality/app/src/main/java/sg/edu/nyp/silvervitality/S
+afety/safetyActivity.java
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/add.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/background.jpg
+
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/bed.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/book.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/calender.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/calender_black
+.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/camera.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/check.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/doctor.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/doctor_black.p
+ng
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/down.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/gear.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/gps.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/green.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/hardbook.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/heart.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/heartbreak.png
+
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/holo_pressed_b
+lue.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/ic_launcher.pn
+g
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/icon.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/left.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/magnify.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/pill.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/pulse.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/red.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/right.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/save.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/saves.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/sotg.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/syringe.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/up.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/wallpaper.jpg
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/wallpaper2.png
+
+ create mode 100644 SilverVitality/app/src/main/res/drawable-hdpi/whiteadd.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable-mdpi/ic_launcher.pn
+g
+ create mode 100644 SilverVitality/app/src/main/res/drawable-xhdpi/ic_launcher.p
+ng
+ create mode 100644 SilverVitality/app/src/main/res/drawable-xxhdpi/ic_launcher.
+png
+ create mode 100644 SilverVitality/app/src/main/res/drawable/ic_launcher.png
+ create mode 100644 SilverVitality/app/src/main/res/drawable/view_touch_selector
+.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/about.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity2.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_alarm_list.x
+ml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_alarm_screen
+.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_details.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_main.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_my.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/activity_my1.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/alarm_list_item.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/camera.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/cameraconf.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/custom_switch.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/display_doctor.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/display_history.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/edit.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/fragment_main.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/fragment_my.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/fragment_my1.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/history.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/note.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/prompt.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/prompt2.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/reminder_edit.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/reminder_list.xml
+ create mode 100644 SilverVitality/app/src/main/res/layout/reminder_row.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/alarm_details.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/alarm_list.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/context_menu.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/display_doctor.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/display_history.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/doctormenu.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/historymenu.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/list_menu.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/list_menu_item_longpres
+s.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/main.xml
+ create mode 100644 SilverVitality/app/src/main/res/menu/options_menu.xml
+ create mode 100644 SilverVitality/app/src/main/res/values-w820dp/dimens.xml
+ create mode 100644 SilverVitality/app/src/main/res/values/dimens.xml
+ create mode 100644 SilverVitality/app/src/main/res/values/stringdoctor.xml
+ create mode 100644 SilverVitality/app/src/main/res/values/stringhistory.xml
+ create mode 100644 SilverVitality/app/src/main/res/values/strings.xml
+ create mode 100644 SilverVitality/app/src/main/res/values/styles.xml
+ create mode 100644 SilverVitality/app/src/main/res/xml/task_preferences.xml
+ create mode 100644 SilverVitality/build.gradle
+ create mode 100644 SilverVitality/gradle.properties
+ create mode 100644 SilverVitality/gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 SilverVitality/gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 SilverVitality/gradlew
+ create mode 100644 SilverVitality/gradlew.bat
+ create mode 100644 SilverVitality/settings.gradle
+ create mode 100644 Website/.classpath
+ create mode 100644 Website/.project
+ create mode 100644 Website/.settings/.jsdtscope
+ create mode 100644 Website/.settings/org.eclipse.jdt.core.prefs
+ create mode 100644 Website/.settings/org.eclipse.wst.common.component
+ create mode 100644 Website/.settings/org.eclipse.wst.common.project.facet.core.
+xml
+ create mode 100644 Website/.settings/org.eclipse.wst.jsdt.ui.superType.containe
+r
+ create mode 100644 Website/.settings/org.eclipse.wst.jsdt.ui.superType.name
+ create mode 160000 Website/WebContent
+ create mode 100644 Website/build/classes/entity/AdminPassword.class
+ create mode 100644 Website/build/classes/entity/Appointment.class
+ create mode 100644 Website/build/classes/entity/AuthenticationSuite.class
+ create mode 100644 Website/build/classes/entity/ChangePassword.class
+ create mode 100644 Website/build/classes/entity/Feedback.class
+ create mode 100644 Website/build/classes/entity/GMapsRequest.class
+ create mode 100644 Website/build/classes/entity/GeoFencer.class
+ create mode 100644 Website/build/classes/entity/GeoFencingLogic.class
+ create mode 100644 Website/build/classes/entity/HTTPRequests.class
+ create mode 100644 Website/build/classes/entity/Login.class
+ create mode 100644 Website/build/classes/entity/Login2FA.class
+ create mode 100644 Website/build/classes/entity/Notifications.class
+ create mode 100644 Website/build/classes/entity/Profile.class
+ create mode 100644 Website/build/classes/entity/RegisterClient.class
+ create mode 100644 Website/build/classes/entity/RegisterStaff.class
+ create mode 100644 Website/build/classes/entity/SendMail$1.class
+ create mode 100644 Website/build/classes/entity/SendMail$2.class
+ create mode 100644 Website/build/classes/entity/SendMail$3.class
+ create mode 100644 Website/build/classes/entity/SendMail.class
+ create mode 100644 Website/build/classes/entity/SendNewsletter$1.class
+ create mode 100644 Website/build/classes/entity/SendNewsletter$2.class
+ create mode 100644 Website/build/classes/entity/SendNewsletter$3.class
+ create mode 100644 Website/build/classes/entity/SendNewsletter.class
+ create mode 100644 Website/build/classes/entity/SendNotification.class
+ create mode 100644 Website/build/classes/entity/Settings.class
+ create mode 100644 Website/build/classes/entity/TestAnyThingHere.class
+ create mode 100644 Website/build/classes/entity/TestCreatePDF.class
+ create mode 100644 Website/build/classes/entity/TestDigitalSignature.class
+ create mode 100644 Website/build/classes/entity/TextFileManipulator.class
+ create mode 100644 Website/build/classes/entity/catalogueItem.class
+ create mode 100644 Website/build/classes/entity/javax.mail.jar
+ create mode 100644 Website/favicon.ico
+ create mode 100644 Website/src/entity/AdminPassword.java
+ create mode 100644 Website/src/entity/Appointment.java
+ create mode 100644 Website/src/entity/AuthenticationSuite.java
+ create mode 100644 Website/src/entity/ChangePassword.java
+ create mode 100644 Website/src/entity/Feedback.java
+ create mode 100644 Website/src/entity/GMapsRequest.java
+ create mode 100644 Website/src/entity/GeoFencer.java
+ create mode 100644 Website/src/entity/GeoFencingLogic.java
+ create mode 100644 Website/src/entity/HTTPRequests.java
+ create mode 100644 Website/src/entity/Login.java
+ create mode 100644 Website/src/entity/Login2FA.java
+ create mode 100644 Website/src/entity/Notifications.java
+ create mode 100644 Website/src/entity/Profile.java
+ create mode 100644 Website/src/entity/RegisterClient.java
+ create mode 100644 Website/src/entity/RegisterStaff.java
+ create mode 100644 Website/src/entity/SendMail.java
+ create mode 100644 Website/src/entity/SendNewsletter.java
+ create mode 100644 Website/src/entity/SendNotification.java
+ create mode 100644 Website/src/entity/Settings.java
+ create mode 100644 Website/src/entity/TestAnyThingHere.java
+ create mode 100644 Website/src/entity/TestCreatePDF.java
+ create mode 100644 Website/src/entity/TestDigitalSignature.java
+ create mode 100644 Website/src/entity/TextFileManipulator.java
+ create mode 100644 Website/src/entity/catalogueItem.java
+ create mode 100644 Website/src/entity/javax.mail.jar
+C:\FinalSilverVitality [master]> git remote add origin https://github.com/nyp-si
+t/Geriatric
+C:\FinalSilverVitality [master]> git remote -v
+origin  https://github.com/nyp-sit/Geriatric (fetch)
+origin  https://github.com/nyp-sit/Geriatric (push)
+C:\FinalSilverVitality [master]> git pull origin master
+warning: no common commits
+remote: Counting objects: 234, done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 234 (delta 1), reused 0 (delta 0)
+Receiving objects: 100% (234/234), 116.73 KiB | 64.00 KiB/s, done.
+Resolving deltas: 100% (50/50), done.
+From https://github.com/nyp-sit/Geriatric
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+Merge made by the 'recursive' strategy.
+ .gitignore                                         |   6 +
+ .idea/.name                                        |   1 +
+ .idea/compiler.xml                                 |  23 ++
+ .idea/copyright/profiles_settings.xml              |   3 +
+ .idea/encodings.xml                                |   5 +
+ .idea/gradle.xml                                   |  18 ++
+ .idea/misc.xml                                     |  10 +
+ .idea/modules.xml                                  |  10 +
+ .idea/scopes/scope_settings.xml                    |   5 +
+ .idea/vcs.xml                                      |   8 +
+ CareGiver.iml                                      |  19 ++
+ CareGiverApp                                       |   1 +
+ README.md                                          |  23 ++
+ app/.gitignore                                     |   1 +
+ app/app.iml                                        |  84 +++++++
+ app/build.gradle                                   |  24 ++
+ app/proguard-rules.pro                             |  17 ++
+ .../java/sg/edu/nyp/caregiver/ApplicationTest.java |  13 ++
+ app/src/main/AndroidManifest.xml                   |  25 +++
+ app/src/main/ic_launcher-web.png                   | Bin 0 -> 37713 bytes
+ .../java/sg/edu/nyp/caregiver/MainActivity.java    | 243 +++++++++++++++++++++
+ app/src/main/res/drawable-hdpi/ic_launcher.png     | Bin 0 -> 2121 bytes
+ app/src/main/res/drawable-mdpi/ic_launcher.png     | Bin 0 -> 1152 bytes
+ app/src/main/res/drawable-xhdpi/ic_launcher.png    | Bin 0 -> 3106 bytes
+ app/src/main/res/drawable-xxhdpi/ic_launcher.png   | Bin 0 -> 5559 bytes
+ app/src/main/res/layout/activity_main.xml          |  17 ++
+ app/src/main/res/menu/main.xml                     |   8 +
+ app/src/main/res/values-w820dp/dimens.xml          |   6 +
+ app/src/main/res/values/dimens.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   8 +
+ app/src/main/res/values/styles.xml                 |   8 +
+ build.gradle                                       |  19 ++
+ gradle.properties                                  |  18 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 49896 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   6 +
+ gradlew                                            | 164 ++++++++++++++
+ gradlew.bat                                        |  90 ++++++++
+ settings.gradle                                    |   1 +
+ 38 files changed, 889 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .idea/.name
+ create mode 100644 .idea/compiler.xml
+ create mode 100644 .idea/copyright/profiles_settings.xml
+ create mode 100644 .idea/encodings.xml
+ create mode 100644 .idea/gradle.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/scopes/scope_settings.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 CareGiver.iml
+ create mode 160000 CareGiverApp
+ create mode 100644 README.md
+ create mode 100644 app/.gitignore
+ create mode 100644 app/app.iml
+ create mode 100644 app/build.gradle
+ create mode 100644 app/proguard-rules.pro
+ create mode 100644 app/src/androidTest/java/sg/edu/nyp/caregiver/ApplicationTes
+t.java
+ create mode 100644 app/src/main/AndroidManifest.xml
+ create mode 100644 app/src/main/ic_launcher-web.png
+ create mode 100644 app/src/main/java/sg/edu/nyp/caregiver/MainActivity.java
+ create mode 100644 app/src/main/res/drawable-hdpi/ic_launcher.png
+ create mode 100644 app/src/main/res/drawable-mdpi/ic_launcher.png
+ create mode 100644 app/src/main/res/drawable-xhdpi/ic_launcher.png
+ create mode 100644 app/src/main/res/drawable-xxhdpi/ic_launcher.png
+ create mode 100644 app/src/main/res/layout/activity_main.xml
+ create mode 100644 app/src/main/res/menu/main.xml
+ create mode 100644 app/src/main/res/values-w820dp/dimens.xml
+ create mode 100644 app/src/main/res/values/dimens.xml
+ create mode 100644 app/src/main/res/values/strings.xml
+ create mode 100644 app/src/main/res/values/styles.xml
+ create mode 100644 build.gradle
+ create mode 100644 gradle.properties
+ create mode 100644 gradle/wrapper/gradle-wrapper.jar
+ create mode 100644 gradle/wrapper/gradle-wrapper.properties
+ create mode 100644 gradlew
+ create mode 100644 gradlew.bat
+ create mode 100644 settings.gradle
+C:\FinalSilverVitality [master]> git push origin master
+Counting objects: 220, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (200/200), done.
+Writing objects: 100% (219/219), 1.60 MiB | 63.00 KiB/s, done.
+Total 219 (delta 40), reused 1 (delta 1)
+To https://github.com/nyp-sit/Geriatric
+   e580d46..5b7e854  master -> master
+C:\FinalSilverVitality [master]>
