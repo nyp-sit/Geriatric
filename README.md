@@ -9,7 +9,7 @@ Authors:
 Leslie, Konan, Paul
 
 
-Total of 3 componenets to the project:
+Total of 3 components to the project:
  > Elderly App [https://github.com/konanshum/SilverVitality]
  
  > Caregiver App [https://github.com/donutsandnuts/CareGiverApp]
