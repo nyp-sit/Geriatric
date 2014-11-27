@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="condition">Condition</string>
+    <string name="dates">Date</string>
+
+
+    <string name="saves">Save</string>
+
+    <string name="deleteHistory">Are you sure, you want to delete it.</string>
+    <string name="agree">Yes</string>
+    <string name="disagree">No</string>
+
+</resources>

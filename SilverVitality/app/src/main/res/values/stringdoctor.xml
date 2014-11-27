@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="note">Name</string>
+    <string name="date">Date</string>
+    <string name="doctor">Doctor</string>
+
+
+    <string name="save">Save</string>
+
+    <string name="deleteDoctor">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

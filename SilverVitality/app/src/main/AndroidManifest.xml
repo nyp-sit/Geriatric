@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sg.edu.nyp.silvervitality"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.AppActivity4"></activity>
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.AppActivity5"></activity>
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.model.DisplayHistory"></activity>
+
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.MedBook"></activity>
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.model.DisplayDoctor"></activity>
+
+
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.AlarmListActivity"></activity>
+
+        <activity android:name=".MedBook.model.AlarmScreen" />
+
+
+        <service android:name=".MedBook.model.AlarmService"
+            android:enabled="true"/>
+
+        <activity
+            android:label="@string/app_name"
+            android:name=".MedBook.AlarmDetailsActivity"></activity>
+
+        <activity android:name=".Appointment.ReminderListActivity" android:label="@string/app_name"/>
+
+        <activity android:name=".Appointment.ReminderEditActivity" android:label="@string/edit_reminder_title"/>
+        <activity android:name=".Appointment.TaskPreferences" android:label="@string/app_name" />
+        <receiver android:name=".Appointment.OnBootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".Appointment.OnAlarmReceiver" />
+        <service android:name=".Appointment.ReminderService" />
+
+        <receiver android:name=".MedBook.model.AlarmManagerHelper" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+
+
+
+
+
+
+    </application>
+
+
+</manifest>

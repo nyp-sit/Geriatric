@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:layout_marginRight="5dp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="500px"
+        android:layout_height="500px"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-light"
+        android:layout_toRightOf="@+id/image"/>
+
+    <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:text=" Ok "
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/image"
+        android:fontFamily="sans-serif-light"
+        />
+
+</RelativeLayout>
